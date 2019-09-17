@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url("https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css");
 @import url('https://codedotspectra.github.io/themes/mini-themes/settingsIcons.css');
 .buttonContainer-KtQ8wc,
@@ -2061,7 +2061,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 
 .theme-dark .body-3iLsc4 {
 	border-bottom: 1px solid var(--NTBackgroundColor01);
-	background-image: url(/assets/6906eb345e3aeb89322c5167db31c1f6.png);
+	background-image: url(https://keketiger.github.io/discordTheme/ncis.png);
 	background-position: right;
 	background-size: 40% 100%;
 	background-repeat: no-repeat
@@ -2307,7 +2307,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 }
 
 .wordmark-2iDDfm svg {
-	background-image: url(https://github.com/keketiger/keketiger.github.io/blob/master/discord-th%C3%A8me/wordMark.png);
+	background-image: url(https://keketiger.github.io/discordTheme/wordMark.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
