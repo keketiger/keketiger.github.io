@@ -2307,7 +2307,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 }
 
 .wordmark-2iDDfm svg {
-	background-image: url(https://github.com/keketiger/keketiger.github.io/blob/master/discord-thème/wordMark.png);
+	background-image: url(https://github.com/keketiger/keketiger.github.io/blob/master/discord-th%C3%A8me/wordMark.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
