@@ -33,8 +33,8 @@
 }
 
 :root {
-	--bgImage: url(https://img5.goodfon.com/original/2560x1440/9/24/astronaut-propast-noch-nebo-planeta-fantastika-skafandr.jpg);
-	--HomeButtonImg: url(https://raw.githubusercontent.com/codedotspectra/themes/master/neutron/import/homeBtn.png);
+	--bgImage: url("https://img5.goodfon.com/original/2560x1440/9/24/astronaut-propast-noch-nebo-planeta-fantastika-skafandr.jpg");
+	--HomeButtonImg: url("https://keketiger.github.io/discordTheme/fond.png");
 	--brightness: 0.4;
 	--customFont: 'Montserrat';
 	--PrimaryColor01: rgb(32, 197, 119);
@@ -76,7 +76,7 @@ a {
 .theme-dark .topSectionNormal-2-vo2m {
 	background-color: var(--NTBackgroundColor04)!important;
 	background-size: 100% 200%;
-	background-image: url(https://discordapp.com/assets/da840b1a6c5d073ca1c6710f8967502a.svg);
+	background-image: url("https://discordapp.com/assets/da840b1a6c5d073ca1c6710f8967502a.svg");
 	background-repeat: no-repeat
 }
 
@@ -103,7 +103,7 @@ a {
 
 .topSectionSpotify-1lI0-P .headerFill-adLl4x {
 	background-color: #0c9602;
-	background-image: url(https://discordapp.com/assets/da840b1a6c5d073ca1c6710f8967502a.svg);
+	background-image: url("https://discordapp.com/assets/da840b1a6c5d073ca1c6710f8967502a.svg");
 	background-repeat: no-repeat;
 	background-position: top;
 	background-size: 100% 105%
@@ -1966,7 +1966,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 
 .headerStreaming-2FjmGz .activity-11LB_k {
 	background-color: #432970;
-	background-image: url(https://raw.githubusercontent.com/codedotspectra/themes/master/neutron/import/twitch-background.jpg);
+	background-image: url("https://raw.githubusercontent.com/codedotspectra/themes/master/neutron/import/twitch-background.jpg");
 	background-repeat: no-repeat;
 	background-position: right top;
 	background-size: 100% 105%
@@ -1988,7 +1988,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 
 .headerSpotify-zpWxgT .activity-11LB_k {
 	background-color: #0c9602;
-	background-image: url(https://discordapp.com/assets/da840b1a6c5d073ca1c6710f8967502a.svg);
+	background-image: url("https://discordapp.com/assets/da840b1a6c5d073ca1c6710f8967502a.svg");
 	background-repeat: no-repeat;
 	background-position: top;
 	background-size: 100% 105%
@@ -2000,7 +2000,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 
 .headerPlaying-j0WQBV .headerTop-3C2Zn0 {
 	background-color: transparent;
-	background-image: url(https://discordapp.com/assets/8eba753f8b6d02be1013c5e659b0fc2f.png);
+	background-image: url("https://discordapp.com/assets/8eba753f8b6d02be1013c5e659b0fc2f.png");
 	background-position: center;
 	background-size: 200% 200%;
 	background-repeat: no-repeat;
@@ -2044,7 +2044,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 .headerNormal-T_seeN {
 	background-color: var(--NTBackgroundColor04)!important;
 	background-size: 100% 130%;
-	background-image: url(https://discordapp.com/assets/da840b1a6c5d073ca1c6710f8967502a.svg);
+	background-image: url("https://discordapp.com/assets/da840b1a6c5d073ca1c6710f8967502a.svg");
 	background-repeat: no-repeat
 }
 
@@ -2061,7 +2061,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 
 .theme-dark .body-3iLsc4 {
 	border-bottom: 1px solid var(--NTBackgroundColor01);
-	background-image: url(https://keketiger.github.io/discordTheme/ncis.png);
+	background-image: url("https://keketiger.github.io/discordTheme/ncis.png");
 	background-position: right;
 	background-size: 40% 100%;
 	background-repeat: no-repeat
@@ -2307,7 +2307,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 }
 
 .wordmark-2iDDfm svg {
-	background-image: url(https://keketiger.github.io/discordTheme/wordMark.png);
+	background-image: url("https://keketiger.github.io/discordTheme/wordMark.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
