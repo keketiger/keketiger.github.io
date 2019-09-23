@@ -2584,4 +2584,29 @@ svg[name=Discord] {
 
 .wrapper-1BJsBx[aria-label=Home]>* {
 	display: none
+}	
+
+.container-PNkimc,		
+.contentRegionScroller-26nc1e,		
+.friendsTable-133bsv .friendsTableBody-1ZhKif,		
+.messages-3amgkR,		
+.privateChannels-1nO12o,		
+.root-SR8cQa,		
+.scroller-1IIF0A,		
+.scroller-1JbKMe,		
+.scroller-2TZvBN,		
+.scroller-9moviB,		
+.sidebar-2K8pFh,		
+.sidebarRegionScroller-3MXcoP {		
+	background-color: transparent!important		
+}		
+
+.expandedFolderBackground-2sPsd- {		
+	background-color: rgba(0, 0, 0, 0.5)		
+}	
+
+.folder-21wGz3,		
+.theme-dark .bodyInner-245q0L,		
+.theme-dark .footer-1fjuF6 {		
+	background-color: var(--NTBackgroundColor01)!important
 }
