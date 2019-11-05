@@ -2619,3 +2619,35 @@ svg[name=Discord] {
 .bg-h5JY_x {
 	background: transparent!important
 }
+
+.homeIcon-tEMBK1 path {
+    display:none;
+}
+
+.homeIcon-1FoKUJ defs,
+.homeIcon-1FoKUJ g {
+	display: none;
+}
+
+.homeIcon-1FoKUJ {
+	background: var(--PrimaryColor01);
+	-webkit-mask: var(--HomeButtonImg);
+	-webkit-mask-size: 95%;
+	-webkit-mask-repeat: no-repeat;
+	-webkit-mask-position: center;
+	transition:250ms all ease;
+}
+
+.homeIcon-tEMBK1 defs,
+.homeIcon-tEMBK1 g {
+	display: none;
+}
+
+.homeIcon-tEMBK1 {
+	background: var(--PrimaryColor01);
+	-webkit-mask: var(--HomeButtonImg);
+	-webkit-mask-size: 30px;
+	-webkit-mask-repeat: no-repeat;
+	-webkit-mask-position: center;
+	transition:250ms all ease;
+}
