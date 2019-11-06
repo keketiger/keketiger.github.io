@@ -2620,13 +2620,23 @@ svg[name=Discord] {
 	background: transparent!important
 }
 
+/*Home Icon*/
 .homeIcon-tEMBK1 path {
     display:none;
+}
+
+/*Normal Home Icon*/
+.wrapper-232cHJ {
+	background:var(--main-color) !important;
 }
 
 .homeIcon-1FoKUJ defs,
 .homeIcon-1FoKUJ g {
 	display: none;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH>.guild-1EfMGQ:first-child .guildInner-3DSoA4 {
+  border-radius: 0px !important;
 }
 
 .homeIcon-1FoKUJ {
@@ -2638,9 +2648,20 @@ svg[name=Discord] {
 	transition:250ms all ease;
 }
 
+/*Canary HomeIcon*/
+.wrapper-232cHJ {
+	background:var(--main-color) !important;
+}
+
 .homeIcon-tEMBK1 defs,
 .homeIcon-tEMBK1 g {
 	display: none;
+}
+
+#app-mount .wrapper-1Rf91z .guilds-1q_RqH>.container-2td-dC:first-child .wrapper-2lTRaf {
+  border-radius: 0px !important;
+  background:transparent !important;
+  box-shadow:none !important;
 }
 
 .homeIcon-tEMBK1 {
