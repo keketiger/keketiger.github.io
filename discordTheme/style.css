@@ -2627,7 +2627,7 @@ svg[name=Discord] {
 
 /*Normal Home Icon*/
 .wrapper-232cHJ {
-	background:var(--main-color) !important;
+	background:var(--PrimaryColor01) !important;
 }
 
 .homeIcon-1FoKUJ defs,
@@ -2650,7 +2650,7 @@ svg[name=Discord] {
 
 /*Canary HomeIcon*/
 .wrapper-232cHJ {
-	background:var(--main-color) !important;
+	background:var(--PrimaryColor01) !important;
 }
 
 .homeIcon-tEMBK1 defs,
