@@ -340,11 +340,11 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-i
 	}
 }
 
-.avatar-1BDn8e[src*="485065297179705344"] + h2 > .username-1A8OIy::after {
+.avatar-1BDn8e[src*="485065297179705344"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
 	content: "";
 	background-image: url('https://keketiger.github.io/assets/discord_theme/version_2/images/badges/administrator.png');
 }
-.avatar-1BDn8e[src*="485065297179705344"] + h2 > .username-1A8OIy:hover::after {
+.avatar-1BDn8e[src*="485065297179705344"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
 	content: "Developer";
 	background-image: linear-gradient(30deg, #800000, #ff3300) !important;
 	background-position: center;
