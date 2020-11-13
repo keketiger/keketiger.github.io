@@ -285,7 +285,7 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-i
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/logout.png) center
 }
 
-.avatar-1BDn8e + h2 > .username-1A8OIy::after {
+.avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
 	display: inline-block;
 	height: 14px;
 	width: 14px;
@@ -299,7 +299,7 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-i
 	margin-left: 5px;
 }
 
-.avatar-1BDn8e + h2 > .username-1A8OIy:hover::after {
+.avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
 	width: auto;
 	border-radius: 4px;
 	padding: 2px 5px;
@@ -342,31 +342,33 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-i
 
 .avatar-1BDn8e[src*="485065297179705344"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
 	content: "";
-	background-image: url('https://keketiger.github.io/assets/discord_theme/version_2/images/badges/administrator.png');
+	width: 30px;
+	background-position: left, right;
+	background-image: url('https://keketiger.github.io/assets/discord_theme/version_2/images/badges/certified.png'), url('https://keketiger.github.io/assets/discord_theme/version_2/images/badges/administrator.png');
 }
 .avatar-1BDn8e[src*="485065297179705344"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
-	content: "Developer";
-	background-image: linear-gradient(30deg, #800000, #ff3300) !important;
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
-	color: #ffffff;
-	animation: fadeIn .2s linear 1;
-	letter-spacing: 1px;
+	content: "";
+	background-image: url('https://keketiger.github.io/assets/discord_theme/version_2/images/badges/certified.png'), url('https://keketiger.github.io/assets/discord_theme/version_2/images/badges/administrator.png');
+	background-color: transparent !important;
+	padding: 0 !important;
+	transform: none !important;
+	display: inline-block;
+	height: 14px;
+	width: 30px;
+	line-height: 14px;
+	background-position: left, right;
+	top: 2px;
+	margin-left: 5px;
 }
 
-::-webkit-input-placeholder, body:not([class*=hljs]):not(code):not([class*=ace_]) {
-	font-family: var(--font) !important;
-}
+::-webkit-input-placeholder, body:not([class*=hljs]):not(code):not([class*=ace_]) {font-family: var(--font) !important}
 
-.ace_editor {
-	font: 17px/normal Monaco, Menlo, 'Ubuntu Mono', Consolas, source-code-pro, monospace !important;
-}
+.ace_editor {font: 17px/normal Monaco, Menlo, 'Ubuntu Mono', Consolas, source-code-pro, monospace !important}
 
 .markup-2BOw-j pre {
 	position: relative;
 	border: 1px solid var(--background_name);
-	border-radius: 6px;
+	border-radius: 6px
 }
 
 .markup-2BOw-j code.hljs, .markup-2BOw-j code.hljs.inline {
@@ -374,18 +376,12 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-i
 	box-sizing: border-box;
 	padding-top: 27px;
 	position: relative;
-	border: none;
+	border: none
 }
 
-.markup-2BOw-j code, .markup-2BOw-j code.inline {
-	background: var(--background_code);
-	box-sizing: border-box;
-}
+.markup-2BOw-j code, .markup-2BOw-j code.inline {background: var(--background_code); box-sizing: border-box}
 
-.hljs {
-	padding-left: 30px !important;
-	overflow: hidden;
-}
+.hljs {padding-left: 30px !important; overflow: hidden}
 
 .hljs::before {
 	content: "";
