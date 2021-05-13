@@ -1513,6 +1513,15 @@ div[aria-label=GUILD_SETTINGS] #bd-settings-sidebar .ui-tab-bar-item.selected, d
 	color: #ffffff !important
 }
 
+.wrapper-3NnKdC,
+.scroller-1Bvpku {
+	background: transparent !important
+}
+
+.childWrapper-anI2G9 .homeIcon-FuNwkv {
+	display: none
+}
+
 .accountList-33MS45, .background-1QDuV2, .banner-WELp4M, .connectionHeader-2MDqhu, .theme-dark .feature-2w65J5, .theme-dark .gemIndicatorContainer-2jdECl {background-color: transparent}
 
 .hero-EvfTTA {max-width: inherit}
