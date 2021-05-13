@@ -57,7 +57,7 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-i
 .platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Discord Nitro-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/nitro.png) center
 }
-.platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before{
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Library Inventory-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/gift.png) center
 }
 .platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Nitro Server Boost-tab"]::before {
@@ -78,17 +78,20 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-i
 .platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Keybinds-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/keybinds.png) center
 }
-.platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before{
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Game Activity-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/games.png) center
 }
-.platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before{
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Text & Images-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/text.png) center
 }
-.platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before{
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Appearance-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/eye.png) center
 }
 .platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Streamer Mode-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/twitch.png) center
+}
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Advanced-tab"]::before {
+	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/core.png) center
 }
 .platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Language-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/language.png) center
