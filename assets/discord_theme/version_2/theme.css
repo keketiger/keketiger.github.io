@@ -748,7 +748,7 @@ div[aria-label=GUILD_SETTINGS] #bd-settings-sidebar .ui-tab-bar-item.selected, d
 
 .h5-18_1nd {color: #ffffff; text-shadow: 0 0 5px rgba(0,0,0,.8)}
 
-.container-3auIfb {background-color: var(--backgroundColor) !important}
+.container-3auIfb {background-color: var(--background_color) !important}
 
 .container-3auIfb[style*="rgb(67, 181, 129)"] {background-image: linear-gradient(to top right, #44b566, #43b581) !important}
 
