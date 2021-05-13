@@ -949,17 +949,15 @@ div[aria-label=GUILD_SETTINGS] #bd-settings-sidebar .ui-tab-bar-item.selected, d
 }
 
 .bd-switch, .themeDefault-24hCdX {
-	background-color: var(--background_color);
+	/*background-color: var(--background_color);*/
 }
 
 .bd-switch-checked, .themeDefault-24hCdX.valueChecked-m-4IJZ {
-	background-color: var(--first_color);
-	background-image: linear-gradient(to bottom right, var(--first_color), var(--second_color));
+	/*background-color: var(--first_color);
+	background-image: linear-gradient(to bottom right, var(--first_color), var(--second_color));*/
 }
 
-.bd-addon-list .bd-addon-card {
-	padding: 0;
-}
+.bd-addon-list .bd-addon-card {padding: 0}
 
 .bd-addon-list .bda-header {
 	border: none;
@@ -974,22 +972,16 @@ div[aria-label=GUILD_SETTINGS] #bd-settings-sidebar .ui-tab-bar-item.selected, d
 	-webkit-text-fill-color: transparent;
 }
 
-#bd-settingspane-container .scroller-wrap {
-	padding: 5px 20px;
-}
+#bd-settingspane-container .scroller-wrap {padding: 5px 20px}
 
 .bd-addon-list .bd-card-footer {
 	border: none;
 	padding: 10px 20px 15px 20px;
 }
 
-.bd-addon-list .bd-addon-card a {
-	color: var(--second_color);
-}
+.bd-addon-list .bd-addon-card a {color: var(--second_color)}
 
-.plugin-settings {
-	padding: 15px 20px;
-}
+.plugin-settings {padding: 15px 20px}
 
 .noiseCancellationPopout-iRK2A0 {
 	background-color: var(--background_color);
