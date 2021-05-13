@@ -4,6 +4,7 @@
 	--first_color: #d11414;
 	--second_color: #9b3c31;
 	--font: 'Open sans', sans-serif;
+	--font-display: var(--font);
 	--home_image: url('https://keketiger.github.io/assets/discord_theme/version_2/images/icon.png');
 	--home_image_size: cover;
 	--background_color: #1a1a1a;
