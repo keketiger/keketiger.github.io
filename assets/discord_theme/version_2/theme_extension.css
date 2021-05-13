@@ -279,6 +279,10 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-i
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/logout.png) center
 }
 
+.bd-sidebar-header {display: none}
+.side-8zPYf6 .item-PXvHYJ.themed-OHr7kt[aria-controls="customcss-tab"] {display: none}
+.colorMuted-HdFt4q.size12-3cLvbJ:nth-child(2) {display: none}
+
 .avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
 	display: inline-block;
 	height: 14px;
