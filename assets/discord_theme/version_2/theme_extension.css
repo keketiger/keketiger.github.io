@@ -20,25 +20,25 @@
 .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item, .side-8zPYf6 .item-PXvHYJ {padding-left: 40px}
 div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item, div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 .item-PXvHYJ {padding-left: 10px}
 
-.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="My Account-tab"]::before {
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="My-Account-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/account.png) center
 }
-.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Privacy & Safety-tab"]::before {
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Privacy-&-Safety-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/privacy.png) center
 }
-.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Authorized Apps-tab"]::before {
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Authorized-Apps-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/apps.png) center
 }
 .platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Connections-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/connections.png) center
 }
-.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Discord Nitro-tab"]::before {
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Discord-Nitro-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/nitro.png) center
 }
-.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Nitro Server Boost-tab"]::before {
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Nitro-Server-Boost-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/boost.png) center
 }
-.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Library Inventory-tab"]::before {
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Library-Inventory-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/gift.png) center
 }
 .platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Billing-tab"]::before {
@@ -50,10 +50,10 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-i
 .side-8zPYf6 .item-PXvHYJ.themed-OHr7kt[aria-controls="Accessibility-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/emote.png) center
 }
-.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Voice & Video-tab"]::before {
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Voice-&-Video-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/voice.png) center
 }
-.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Text & Images-tab"]::before {
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Text-&-Images-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/text.png) center
 }
 .platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Notifications-tab"]::before {
@@ -74,7 +74,7 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-i
 .platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Advanced-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/core.png) center
 }
-.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Game Activity-tab"]::before {
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Game-Activity-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/games.png) center
 }
 .platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Overlay-tab"]::before {
@@ -95,7 +95,7 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-i
 .platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="changelog-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/changelog.png) center
 }
-.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Hypesquad Online-tab"]::before {
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Hypesquad-Online-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/hype.png) center
 }
 .platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="logout-tab"]::before {
