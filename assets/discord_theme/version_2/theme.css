@@ -713,7 +713,7 @@ div[aria-label=GUILD_SETTINGS] #bd-settings-sidebar .ui-tab-bar-item.selected, d
 }
 
 .accountList-33MS45, .background-1QDuV2, .bd-addon-list .bd-addon-card, .bottomDivider-1K9Gao, .card-FDVird:before, .cardPrimary-1Hv-to, .cardPrimaryEditable-3KtE4g, .cardPrimaryOutline-29Ujqw, .codeRedemptionRedirect-1wVR4b, .connection-1fbD7X, .container-1nZlH6, .css-13kbzi0-control, .css-15ejc46-control, .css-181m2lf-menu, .css-1yegjoj-control, .css-2yldzf-control, .css-2yldzf-control:hover, .paginator-166-09, .paymentPane-3bwJ6A {
-	background-color: var(--background_color) !important;
+	background-color: rgba(0, 0, 0, 0.52) !important;
 	border: none
 }
 
@@ -1484,21 +1484,10 @@ div[aria-label=GUILD_SETTINGS] #bd-settings-sidebar .ui-tab-bar-item.selected, d
 	border-radius: 4px;
 }
 
-.toolbar-2bjZV7 {
-	background-color: var(--background_color) !important;
-}
-
-.toolbar-2bjZV7:before {
-	border-top-color: var(--background_color);
-}
-
-.active-2HPddW, .hover-28QbSq:hover {
-	background-color: var(--first_color);
-	border-radius: 50% !important;
-}
-
+.toolbar-2bjZV7 {background-color: var(--background_color) !important;}
+.toolbar-2bjZV7:before {border-top-color: var(--background_color);}
+.active-2HPddW, .hover-28QbSq:hover {background-color: var(--first_color);border-radius: 50% !important;}
 .attachButtonPlay-3iJ0mf {color: #1db954}
-
 .bf-toolbar::before {background: var(--background_color) !important}
 
 .bf-toolbar .format:hover {
@@ -1507,19 +1496,13 @@ div[aria-label=GUILD_SETTINGS] #bd-settings-sidebar .ui-tab-bar-item.selected, d
 }
 
 .wrapper-3NnKdC, .scroller-1Bvpku {background: transparent !important}
-
 .childWrapper-anI2G9 .homeIcon-FuNwkv {display: none}
-
 .accountList-33MS45, .background-1QDuV2, .banner-WELp4M, .connectionHeader-2MDqhu, .theme-dark .feature-2w65J5, .theme-dark .gemIndicatorContainer-2jdECl {background-color: transparent}
-
 .hero-EvfTTA {max-width: inherit}
-
 svg.slider-TkfMQL svg {display: none}
-
 .container-3auIfb:not([style*="125"]) {background-image: linear-gradient(to right, var(--first_color), var(--second_color)) !important}
-
 svg.homeIcon-FuNwkv {display: none !important}
-
 .container-lRFx4q {background: 0 0 !important}
-
 .section-2gLsgF {background: 0 0 !important}
+.container-23jqbX .titleContainer-2CXtJo {background-color: unset}
+.contentWidth-xLB44s .header-2mZ9Ov.stickyHeader-hH_ZLl {background-color: unset;position: relative}
