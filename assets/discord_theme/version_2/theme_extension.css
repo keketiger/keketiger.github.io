@@ -95,7 +95,7 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-i
 .platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="changelog-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/changelog.png) center
 }
-.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Hypesquad-Online-tab"]::before, item-PXvHYJ.themed-OHr7kt[aria-controls="Hypesquad Online-tab"]::before {
+.platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="Hypesquad-Online-tab"]::before, .item-PXvHYJ.themed-OHr7kt[aria-controls="Hypesquad Online-tab"]::before {
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/hype.png) center
 }
 .platform-win .item-PXvHYJ.themed-OHr7kt[aria-controls="logout-tab"]::before {
