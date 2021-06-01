@@ -279,6 +279,8 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-i
 	background:url(https://keketiger.github.io/assets/discord_theme/version_2/images/icons/logout.png) center
 }
 
+.item-PXvHYJ.themed-OHr7kt[aria-controls="Nitro Server Boost-tab"], .item-PXvHYJ.themed-OHr7kt[aria-controls="Nitro-Server-Boost-tab"] {color: #ff73fa;}
+
 .bd-sidebar-header {display: none}
 .side-8zPYf6 .item-PXvHYJ.themed-OHr7kt[aria-controls="customcss-tab"] {display: none}
 .socialLinks-3jqNFy a.anchor-3Z-8Bb.anchorUnderlineOnHover-2ESHQB.bd-social-link {display: none}
